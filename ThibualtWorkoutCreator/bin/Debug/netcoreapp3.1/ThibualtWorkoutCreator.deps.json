@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ThibualtWorkoutCreator/1.0.0": {
+        "runtime": {
+          "ThibualtWorkoutCreator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThibualtWorkoutCreator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
