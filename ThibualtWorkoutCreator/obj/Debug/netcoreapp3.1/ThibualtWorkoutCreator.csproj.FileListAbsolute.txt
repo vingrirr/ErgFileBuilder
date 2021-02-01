@@ -1,0 +1,13 @@
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\bin\Debug\netcoreapp3.1\ThibualtWorkoutCreator.exe
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\bin\Debug\netcoreapp3.1\ThibualtWorkoutCreator.deps.json
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\bin\Debug\netcoreapp3.1\ThibualtWorkoutCreator.runtimeconfig.json
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\bin\Debug\netcoreapp3.1\ThibualtWorkoutCreator.runtimeconfig.dev.json
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\bin\Debug\netcoreapp3.1\ThibualtWorkoutCreator.dll
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\bin\Debug\netcoreapp3.1\ThibualtWorkoutCreator.pdb
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\obj\Debug\netcoreapp3.1\ThibualtWorkoutCreator.csprojAssemblyReference.cache
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\obj\Debug\netcoreapp3.1\ThibualtWorkoutCreator.AssemblyInfoInputs.cache
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\obj\Debug\netcoreapp3.1\ThibualtWorkoutCreator.AssemblyInfo.cs
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\obj\Debug\netcoreapp3.1\ThibualtWorkoutCreator.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\obj\Debug\netcoreapp3.1\ThibualtWorkoutCreator.dll
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\obj\Debug\netcoreapp3.1\ThibualtWorkoutCreator.pdb
+C:\Users\Ryan Vingris\Source\Repos\ThibualtWorkoutCreator\ThibualtWorkoutCreator\obj\Debug\netcoreapp3.1\ThibualtWorkoutCreator.genruntimeconfig.cache
